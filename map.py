@@ -2,7 +2,7 @@ import folium
 import os
 
 # Create map, centerpoint Alicante, Spain
-m = folium.Map(location=[38.3537, -0.49018499999999676], zoom_start=12)
+m = folium.Map(location=[38.3537, -0.49018499999999676], zoom_start=14)
 
 #Global tooltip
 tooltip = 'Click For More'
